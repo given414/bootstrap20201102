@@ -17,7 +17,7 @@
 </head>
 <body>
 <div class="container">
-	<h1 class="text-primary">Lorem ipsum dolor.</h1>
+	<h1 class="text-primary">Lorem ipsu dolor.</h1>
 	<h1 class="text-muted">Lorem ipsum dolor.</h1>
 	<h1 class="text-success">Lorem ipsum dolor.</h1>
 	<h1 class="text-info">Lorem ipsum dolor.</h1>
